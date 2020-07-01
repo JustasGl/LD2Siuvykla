@@ -1,0 +1,4 @@
+Lumareta
+30
+Afrikinis Polisteris 1 8 0.13 15
+Australietiskas vilna 3 9 0.5 60

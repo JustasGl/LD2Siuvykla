@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1593538843 source:c:\users\justas\desktop\ld1siuvykla\kostiumas.cpp
+	"Kostiumas.h"
+
+1593538843 c:\users\justas\desktop\ld1siuvykla\kostiumas.h
+	<string>
+
+1593647086 source:c:\users\justas\desktop\ld1siuvykla\main.cpp
+	<iostream>
+	<Kostiumas.h>
+	<Siuvykla.h>
+	<fstream>
+	<string>
+	<map>
+	<dirent.h>
+	<stdio.h>
+	<string.h>
+
+1593538843 c:\users\justas\desktop\ld1siuvykla\\kostiumas.h
+	<string>
+
+1593640497 c:\users\justas\desktop\ld1siuvykla\\siuvykla.h
+	<string>
+	<Kostiumas.h>
+
+1593640205 source:c:\users\justas\desktop\ld1siuvykla\siuvykla.cpp
+	"Siuvykla.h"
+	<Kostiumas.h>
+
+1593640497 c:\users\justas\desktop\ld1siuvykla\siuvykla.h
+	<string>
+	<Kostiumas.h>
+

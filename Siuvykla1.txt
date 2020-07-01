@@ -1,0 +1,8 @@
+Petrele
+50
+Europietiskas silkas 3 10 0.89 30
+Angliskas vilna 4 8 0.5 60
+Amerikietiskas medvilne 2 15 0.9 40
+Modifikuotas tvinas 2 5 0.21 80
+klasikinis sintetika 4 9 0.10 120
+klasikinis sintetika 6 9 0.20 100
